@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://Jeevapradhap.github.io/
+https://jeevapradhap.github.io/JeevaPortfolio.github.io/
 
 ## Features 📋
 ⚡️ Fully Responsive\
